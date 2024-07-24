@@ -1,0 +1,26 @@
+/* Default styles */
+
+body {
+    margin:0;
+    padding: 0;
+}
+div {
+    display: block;
+}
+
+.quizPage {
+    margin: 0px;
+}
+
+.quizPage {
+    background-color: lightblue;
+}
+
+.quizPage .mainBox {
+    background-image: url(./images/main.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    height: 42vw;
+}
